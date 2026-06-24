@@ -176,22 +176,6 @@ FROM renewable_energy;
 
 ---
 
-## 📸 Dashboard Preview
-
-### Executive Dashboard
-
-(Add Dashboard Screenshot Here)
-
-### Weather Analysis Dashboard
-
-(Add Weather Dashboard Screenshot Here)
-
-### Energy Analysis Dashboard
-
-(Add Energy Dashboard Screenshot Here)
-
----
-
 ## 🔍 Key Findings
 
 - ⚡ Total energy generation exceeded 112 million units.
@@ -206,8 +190,7 @@ FROM renewable_energy;
 
 ## 💼 Business Insights
 
-📌 Renewable energy performance is strongly influenced by weather conditions.
-
+📌 Renewable energy performance is strongly influenced by weather conditions
 📌 Seasonal monitoring can improve energy planning.
 
 📌 Historical weather patterns can support forecasting decisions.
@@ -248,12 +231,6 @@ Renewable-Energy-Forecasting
 │
 ├── Dataset/
 │      Renewable_Energy_Dataset.xlsx
-│
-├── SQL/
-│      renewable_energy_queries.sql
-│
-├── Presentation/
-│      Renewable_Energy_Forecasting_Presentation.pptx
 │
 ├── Report/
 │      Renewable_Energy_Project_Report.pdf
